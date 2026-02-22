@@ -308,4 +308,9 @@ CMakeFiles/FusionBox.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/15.2.0/tr1/riemann_zeta.tcc \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
  C:/msys64/ucrt64/include/box2d/id.h \
- C:/msys64/ucrt64/include/box2d/types.h
+ C:/msys64/ucrt64/include/box2d/types.h \
+ C:/msys64/ucrt64/include/c++/15.2.0/map \
+ C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_tree.h \
+ C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_map.h \
+ C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_multimap.h \
+ C:/msys64/ucrt64/include/c++/15.2.0/iostream
