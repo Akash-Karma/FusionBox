@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/akash/Desktop/FusionBox/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FusionBox.dir\\main.cpp.obj -c C:\\Users\\akash\\Desktop\\FusionBox\\main.cpp",
+  "file": "C:/Users/akash/Desktop/FusionBox/main.cpp",
+  "output": "CMakeFiles/FusionBox.dir/main.cpp.obj"
+}
+]

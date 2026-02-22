@@ -1,0 +1,3 @@
+C:/Users/akash/Desktop/FusionBox/build/CMakeFiles/FusionBox.dir
+C:/Users/akash/Desktop/FusionBox/build/CMakeFiles/edit_cache.dir
+C:/Users/akash/Desktop/FusionBox/build/CMakeFiles/rebuild_cache.dir
