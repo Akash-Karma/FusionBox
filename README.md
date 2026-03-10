@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/8a5eacd8-956a-4390-a169-766b5e9ebb06
+
 # FusionBox: Stellar Evolution 🌌
 
 A physics-based "Suika-style" evolution game built with **C++**, **SFML 3.0**, and the **Box2D 3.0 C API**. Lead a cosmic journey from a tiny Meteor to a massive Red Giant by merging celestial bodies in a gravity-defying container.
